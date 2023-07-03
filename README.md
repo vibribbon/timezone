@@ -1,6 +1,8 @@
 # timezone
 A mini terminal script to view the time in different timezones
 
+All scripts are without any kind of warranty, use entirely at your own risk!
+
 On linux place into /user/local/bin/ and change permissions as follows: 
 sudo chown root /user/local/bin/timezone.sh 
 sudo chmod 755 /user/local/bin/timezone.sh
